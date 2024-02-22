@@ -1,0 +1,1 @@
+A minimalist and efficient Todo List app built with React for seamless task management.
